@@ -11,3 +11,4 @@ jobs:
       board: '["eyelash_corne_left", "eyelash_corne_right"]'
       shield: '["nice_view"]'
       modules: '["a741725193/zmk-new_corne/main"]'
+      alphas: '["QWERTY"]'
